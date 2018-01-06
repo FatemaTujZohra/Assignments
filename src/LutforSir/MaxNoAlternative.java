@@ -4,8 +4,8 @@ public class MaxNoAlternative {
 
 	public static void main(String[] args) {
 		
-		int Roll [] = {110, 109, 150, 300};
-             int max=0;
+		int Roll [] = {110, 109, 480, 300, -400};
+             int max= 0; //Roll[0];
 		
 		for (int i=0; i<4;i++)
 		{
